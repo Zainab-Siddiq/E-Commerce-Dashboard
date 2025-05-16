@@ -13,8 +13,5 @@ This interactive Power BI dashboard visualizes sales data for an e-commerce busi
 - Sample E-commerce dataset
 - Power Query Editor
 
-## Screenshots:
-![Dashboard Screenshot](.png)
-
 ## Author:
 Zainab Siddiq 
